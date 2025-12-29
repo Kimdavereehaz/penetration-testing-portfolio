@@ -1,4 +1,4 @@
-👋 Hi, I'm David O Ayomide
+👋 Hi, I'm David O. Ayomide
 
 I am a penetration tester focused on web, API, and mobile application security.
 I perform manual security testing based on OWASP Top 10.
